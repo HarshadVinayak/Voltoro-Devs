@@ -1,0 +1,6 @@
+{
+  "name": "Voltoro Devs",
+  "description": "Voltoro Devs: A premium AI-powered software development company inside the browser, featuring multi-agent workflow, VS Code-like editor, infinite design canvas, visual Kanban board, and drag-and-drop database deployment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
